@@ -36,7 +36,9 @@ A Streamlit-based application that allows you to ask questions about research pa
    -pip install streamlit langchain-groq langchain-huggingface sentence-transformers faiss-cpu pypdf python-dotenv
 4. **Configure environment**:
    -Create .env file with:
+   
    -GROQ_API_KEY=your_groq_api_key_here
+   
    -Add PDF files to the research_papers directory
 
 ## Usage
