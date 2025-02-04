@@ -43,7 +43,7 @@ A Streamlit-based application that allows you to ask questions about research pa
 
 ## Usage
 1.**Start the application**:
- -streamlit run app.py
+ streamlit run app.py
 
 
 2.**Click "Document Embedding" to process PDFs**
