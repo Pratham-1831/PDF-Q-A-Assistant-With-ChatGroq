@@ -30,10 +30,11 @@ A Streamlit-based application that allows you to ask questions about research pa
 1. **Clone the repository**:
 
    git clone https://github.com/Pratham-1831/PDF-Q-A-Assistant-With-ChatGroq.git
+   
    cd PDF-Q-A-Assistant-With-ChatGroq
-2. **Install required packages**:
+3. **Install required packages**:
    -pip install streamlit langchain-groq langchain-huggingface sentence-transformers faiss-cpu pypdf python-dotenv
-3. **Configure environment**:
+4. **Configure environment**:
    -Create .env file with:
    -GROQ_API_KEY=your_groq_api_key_here
    -Add PDF files to the research_papers directory
